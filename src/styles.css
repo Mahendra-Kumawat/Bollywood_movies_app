@@ -1,0 +1,16 @@
+.App {
+  padding: "20px 0px";
+  font-family: monospace;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+  max-width: "600px";
+  margin: auto;
+}
+
+.btn:hover {
+  color: white;
+}
